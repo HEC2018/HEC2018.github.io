@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<body>
+    Hello World!
+    <body>
 
 <h2>My First JavaScript</h2>
 
